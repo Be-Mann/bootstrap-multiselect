@@ -1,5 +1,5 @@
 {
-    "name": "idealcms/bootstrap-multiselect",
+    "name": "medienplanet24/bootstrap-multiselect",
     "description": "JQuery multiselect plugin based on Twitter Bootstrap.",
     "type": "component",
     "homepage": "http://davidstutz.github.io/bootstrap-multiselect/",
@@ -22,7 +22,7 @@
         "name": "David Stutz"
     },
     "require": {
-        "components/jquery": "~2.1.3"
+        "components/jquery": "^2.2.4"
     },
     "extra": {
         "component": {
