@@ -22,7 +22,7 @@
         "name": "David Stutz"
     },
     "require": {
-        "components/jquery": "^2.2.4"
+        "components/jquery": "^2.2.4|^3.2.1"
     },
     "extra": {
         "component": {
